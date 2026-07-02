@@ -1,27 +1,27 @@
-# Hi, I'm Saksham Rai 👋
+# Hi 👋, I'm Saksham Rai
 
 ### Software Engineering Student | Python Developer | Backend Enthusiast
 
-I'm a B.Tech Computer Science Engineering student passionate about building software that solves real-world problems.
+I'm a **B.Tech Computer Science Engineering student** passionate about building software that solves real-world problems.
 
-Currently, I'm focused on strengthening my software engineering fundamentals through practical projects, backend development, and continuous learning.
+Currently focused on strengthening my software engineering fundamentals through practical projects, backend development, and continuous learning.
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Featured Projects
 
-- Building real-world software projects
-- Learning Backend Development
-- Strengthening Data Structures & Algorithms
-- Writing clean, maintainable code
-- Preparing for Software Engineering Internships
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🚑 **[AmbuLink-Plus](https://github.com/saksham-rai1947/AmbuLink-Plus)** | A real-time emergency response platform connecting patients, ambulance drivers, and hospitals with Firebase. | HTML • CSS • JavaScript • Firebase |
+| 🔐 **Password Manager** *(Coming Soon)* | A secure desktop application for encrypted password management. | Python • Tkinter • MySQL |
+| ⚖️ **[NyayaBot](https://github.com/saksham-rai1947/NyayaBot)** | A legal assistance web application with a chatbot-inspired interface. | HTML • CSS • JavaScript |
+| 📚 **[Library Management System](https://github.com/saksham-rai1947/library-management-system)** | A responsive web application for managing library records. | HTML • CSS • JavaScript |
 
 ---
 
 ## 💻 Tech Stack
 
 ### Languages
-
 - Python
 - C
 - JavaScript
@@ -29,82 +29,40 @@ Currently, I'm focused on strengthening my software engineering fundamentals thr
 - CSS
 
 ### Database
-
 - MySQL
 - Firebase
 
 ### Tools
-
 - Git
 - GitHub
-- VS Code
+- Visual Studio Code
 
 ---
 
-# 🚀 Featured Projects
-
-## 🚑 AmbuLink+
-
-A real-time emergency response platform connecting patients, ambulance drivers, and hospitals using Firebase.
-
-**Tech Stack**
-
-HTML • CSS • JavaScript • Firebase
-
----
-
-## 🔐 Password Manager
-
-A secure desktop application developed using Python and MySQL for encrypted password management.
-
-**Tech Stack**
-
-Python • Tkinter • MySQL
-
----
-
-## ⚖️ NyayaBot
-
-A legal assistance web application designed with a chatbot-inspired interface.
-
-**Tech Stack**
-
-HTML • CSS • JavaScript
-
----
-
-## 📚 Library Management System
-
-A responsive Library Management System built using HTML, CSS, and JavaScript.
-
-**Tech Stack**
-
-HTML • CSS • JavaScript
-
----
-
-# 📖 Currently Learning
+## 🌱 Currently Learning
 
 - Backend Development
 - Data Structures & Algorithms
 - SQL
 - Object-Oriented Programming
 - Software Engineering Principles
+- System Design Fundamentals
 
 ---
 
-# 🎯 Long-Term Vision
+## 🎯 Career Goal
 
-I'm working towards becoming a Software Engineer capable of designing scalable, reliable, and impactful software systems.
+To become a **Software Engineer** capable of designing scalable, reliable, and impactful software systems.
 
-Over the coming years, I plan to deepen my knowledge of backend engineering, cloud technologies, databases, and system design while contributing to open-source projects and building production-ready applications.
+I'm continuously improving my backend development skills, exploring modern software engineering practices, and building production-ready applications that solve real-world problems.
 
 ---
 
-# 🤝 Connect With Me
+## 📫 Connect With Me
 
-- LinkedIn:
-  www.linkedin.com/in/saksham-rai-356105330
+- **LinkedIn:** https://www.linkedin.com/in/saksham-rai-356105330
+- **GitHub:** https://github.com/saksham-rai1947
 
-- GitHub:
-  github.com/saksham-rai1947
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and follow my journey as I continue building software and learning new technologies.*
