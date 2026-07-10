@@ -13,7 +13,7 @@ Currently focused on strengthening my software engineering fundamentals through 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🚑 **[AmbuLink-Plus](https://github.com/saksham-rai1947/AmbuLink-Plus)** | A real-time emergency response platform connecting patients, ambulance drivers, and hospitals with Firebase. | HTML • CSS • JavaScript • Firebase |
-| 🔐 **[password-manager](https://github.com/saksham-rai1947/password-manager)| A secure desktop application for encrypted password management. | Python • Tkinter • MySQL |
+| 🔐 **[password-manager](https://github.com/saksham-rai1947/password-manager)**| A secure desktop application for encrypted password management. | Python • Tkinter • MySQL |
 | ⚖️ **[NyayaBot](https://github.com/saksham-rai1947/NyayaBot)** | A legal assistance web application with a chatbot-inspired interface. | HTML • CSS • JavaScript |
 | 📚 **[Library Management System](https://github.com/saksham-rai1947/library-management-system)** | A responsive web application for managing library records. | HTML • CSS • JavaScript |
 
